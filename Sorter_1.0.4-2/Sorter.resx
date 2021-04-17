@@ -1,0 +1,397 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="textBox1.Locked" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+  <assembly alias="System.Drawing.Primitives" name="System.Drawing.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>583, 429</value>
+  </data>
+  <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>100, 23</value>
+  </data>
+  <assembly alias="System.Private.CoreLib" name="System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e" />
+  <data name="textBox1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <metadata name="roundButton1.Locked" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+  <data name="roundButton1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>445, 313</value>
+  </data>
+  <data name="roundButton1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>100, 32</value>
+  </data>
+  <data name="roundButton1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
+  </data>
+  <data name="roundButton1.Text" xml:space="preserve">
+    <value>roundButton1</value>
+  </data>
+  <data name="&gt;&gt;roundButton1.Name" xml:space="preserve">
+    <value>roundButton1</value>
+  </data>
+  <data name="&gt;&gt;roundButton1.Type" xml:space="preserve">
+    <value>Sorter_2._0.RoundButton, Sorter_1.0.4-2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;roundButton1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;roundButton1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <metadata name="pictureBox1.Locked" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+  <assembly alias="System.Drawing.Common" name="System.Drawing.Common, Version=4.0.2.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAd1JREFUWEe1
+        l0tOxTAMRcsExgxhISCYwfLgMQY2wmc9bAFGDMAnKE9+7k3SNOVKR6qcxHFjJ02nTl0br8an8RPARtuV
+        salOjHcjTtjizWDskJ4N5byHJ6NbRK6WeS34Wrwap4ZyAt/GnXFmHBlZPGO7N+ijxgK+qyJKNRCnF8ZS
+        0bcUSHUlvow44MVYK8ZGf6RDShXczhgVPqLfWWGqpR958yi1EgepiPuc/Cl9GLd/j1K00Ucp1gTnxF6+
+        AVTB4Ti3qyCw5XYVxKWR2zNJHK/eqN7eT57xQfjJMyqIuArMnZbCG9nLUWoCwF5quzGi8O378O2YnXjn
+        hlJpIoWaHOHb90tb0hvAn3BRS4IoTY7wHfvPDQ3VgqhNnhXHzA0N1QKgraU4ZmYYTUEtCJmC/yjCUhCy
+        CNkK3tizDcl5qU0FEb8LaRuuPYh8wakglhxE+/ujNwLHZpQPQlW7D0JNXjyKUc/HqLbVCEJNjuLbH3yM
+        1Oc45WcjxTqD2c2IS0Ls9GCMCh/Rb/GmHLckjKyEevO09UpSqQDypwqzJPrGnGeOjapa13L2MgeKPzF5
+        xkZbaWJoXsuzWAmVjrXgq/nmSqowe3k0hsRqxFvTEjb5OY3i6KSyVXqwcf3u+D2fpl/CPc3mv/7pSQAA
+        AABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>407, 313</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>32, 32</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="pictureBox1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>AutoSize</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <metadata name="tabControl1.Locked" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+  <metadata name="tabPage1.Locked" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+  <data name="tabPage1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>4, 24</value>
+  </data>
+  <data name="tabPage1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabPage1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>525, 267</value>
+  </data>
+  <data name="tabPage1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="tabPage1.Text" xml:space="preserve">
+    <value>tabPage1</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Name" xml:space="preserve">
+    <value>tabPage1</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="tabPage2.Locked" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+  <data name="tabPage2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>4, 24</value>
+  </data>
+  <data name="tabPage2.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabPage2.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>525, 267</value>
+  </data>
+  <data name="tabPage2.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
+  </data>
+  <data name="tabPage2.Text" xml:space="preserve">
+    <value>tabPage2</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Name" xml:space="preserve">
+    <value>tabPage2</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="tabPage3.Locked" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+  <data name="tabPage3.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>4, 24</value>
+  </data>
+  <data name="tabPage3.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>525, 267</value>
+  </data>
+  <data name="tabPage3.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>2</value>
+  </data>
+  <data name="tabPage3.Text" xml:space="preserve">
+    <value>tabPage3</value>
+  </data>
+  <data name="&gt;&gt;tabPage3.Name" xml:space="preserve">
+    <value>tabPage3</value>
+  </data>
+  <data name="&gt;&gt;tabPage3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage3.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;tabPage3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <metadata name="tabPage4.Locked" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+  <data name="tabPage4.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>4, 24</value>
+  </data>
+  <data name="tabPage4.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>525, 267</value>
+  </data>
+  <data name="tabPage4.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>3</value>
+  </data>
+  <data name="tabPage4.Text" xml:space="preserve">
+    <value>tabPage4</value>
+  </data>
+  <data name="&gt;&gt;tabPage4.Name" xml:space="preserve">
+    <value>tabPage4</value>
+  </data>
+  <data name="&gt;&gt;tabPage4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage4.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;tabPage4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tabControl1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>12, 12</value>
+  </data>
+  <data name="tabControl1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>533, 295</value>
+  </data>
+  <data name="tabControl1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Name" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <metadata name="pictureBox2.Locked" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+  <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAABJVJREFUWEe1
+        l1trXFUUx2dynUyuk/uF3BMTJg5pjUMMuRAhCAlGn/Kep3wArVqIaGx90Aq21YIfQUXERjAVIlTxrS/R
+        DxCx2BassYVW0ajJ8fffWXOYyZyTWjv5w2Gvy95rr73WXnvvE/k/KCkpuUfjZX/I7tMeP8bHx2tovNnZ
+        2djy8nJMbU9PT0wy0xUGnudFjcxBU1PT+5WVlVvG+qiqqtqSztjDCLQVClbUGo1GvfLy8lvDw8OPmdih
+        uLj4r87OzrSxPvr6+tLSGeugsWVlZTdlSzZNfDQWFha6abyWlpbTrOis6NLS0p97e3ufwaHrMuY6BsCc
+        vq6+GoPIkw3ZEj0zM9PpOoahu7u7jcZrbW195UByAIysFhUV/dPY2HiGnJeYOA9LS0vF9HlDfRsaGlZN
+        7GA2PZsjEMqTl0gkXj5gCw+zzfYK3l8RwnabTi8ZW3DU1taeIkW3jc1Hf3//40flWJiamkpg6DPCrA3n
+        zgDR1dXVlycmJupdpxDItuYwNhgcKDvkPGcPZFBTU3OZxmOyDRnSGaBPNLIvpLM+ecDmadk2NhxdXV3P
+        sqK/jfVRUVHxE+H7ZX5+vtxEeZBOIeb7wUQ+ZLO9vX3R2HCobvH2VWMdWNW6JjfWgRpPkYoP6urqLog2
+        sYP6Il831oFSXEV+y9hcKK8MuKRckqd9lZOpIqlUKkHjjl7x0uHkDv324vH4l4T+img28K+ZcdZXYxrF
+        C9LJtuZgQZc0p1OQl99pPEJ8bWBg4AknzALH7ueWXwdNTqVcMdYHfb6RE8aK32Aif1wGRGsMx69B6gLT
+        3BEP7ypEBEG5w7ER0YODgye0WqcIgHRDQ0NPih4ZGUkG7aUMbE5XcUc6APzwk6b38H7TSQOgdLB/LopO
+        JpNlNKEl/VAOZPQ4cJGUbDhpANBtcgRfEG3V8ugOKIys5oRobrzUg1LAWX9StCrjP6WAjeBeN4T2O67M
+        p5w2C4R1nbv+K2N1XO/Q91tjfRCdnE3ImE2Vr7E+NAeR+h5Sm/A3J9RLhlvsPB7vSoF3eWWYidLa2lqR
+        DhutFkNf6xOt2s+MW1xcjGuMX2rAdDq2d3Hu/NjYWO2B5hAosxs487qxDvX19Z9mr05QiFnhWX1USdLE
+        DvS9ozHGOmDzNZy8YWw4eEw8F5Q7vN6WE7a6QEjHAu4QlcCjmPA/b2w4mORuW1vbC8bmgAPoYxqPCa7q
+        0CKMcX2icfCqdBzPH7rOh8CD5EWcu2tsMEZHR0+Sz31jA6HcEfaPeP/9Aasy8qD/ZBN+Mjc3F5xXg2xn
+        KioQrH6HXJ0ytuCQbR3lxuYBB6MK77E9ydhfZzQHZPCTbHp62j1Ks69jvd+am5vPMXCPFZxbWVkpNVUe
+        OLJLOAnfYsPtMebt7Lcfk7sXts0RjnQ6rfe719HR8SYb5x3RlM9NdvBsLBbbFq9+IVDfbV5IT2uMeNmQ
+        LdFm+8FgJfox2cfIjwzqM7EDG26XXT9hrA/JDv+YaKxsyJZsmvjRQBre5e2Q92vGRFuEP+zXrHDglnM/
+        p5OTk9XZn2Ssss51Om5Qrnm/5yZ7SEQi/wLZHkogQCJkLAAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="pictureBox2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>118, 313</value>
+  </data>
+  <data name="pictureBox2.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>32, 32</value>
+  </data>
+  <data name="pictureBox2.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>AutoSize</value>
+  </data>
+  <data name="pictureBox2.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Name" xml:space="preserve">
+    <value>pictureBox2</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="roundButton2.Locked" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+  <data name="roundButton2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>12, 313</value>
+  </data>
+  <data name="roundButton2.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>100, 32</value>
+  </data>
+  <data name="roundButton2.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>5</value>
+  </data>
+  <data name="roundButton2.Text" xml:space="preserve">
+    <value>roundButton2</value>
+  </data>
+  <data name="&gt;&gt;roundButton2.Name" xml:space="preserve">
+    <value>roundButton2</value>
+  </data>
+  <data name="&gt;&gt;roundButton2.Type" xml:space="preserve">
+    <value>Sorter_2._0.RoundButton, Sorter_1.0.4-2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;roundButton2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;roundButton2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Locked" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing.Primitives">
+    <value>7, 15</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>557, 357</value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Sorter</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Sorter</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
